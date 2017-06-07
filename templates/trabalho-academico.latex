@@ -31,12 +31,12 @@
 
 \documentclass[
 	% -- opções da classe memoir --
-	12pt,				% tamanho da fonte
-%  openright,			% capítulos começam em pág ímpar (insere página vazia caso preciso)
+	10pt,				% tamanho da fonte
+    openright,			% capítulos começam em pág ímpar (insere página vazia caso preciso)
 	twoside,			% para impressão em recto e verso. Oposto a oneside
-	a4paper,			% tamanho do papel. 
+	a5paper,			% tamanho do papel. 
 	% -- opções da classe abntex2 --
-	%chapter=TITLE,		% títulos de capítulos convertidos em letras maiúsculas
+	chapter=TITLE,		% títulos de capítulos convertidos em letras maiúsculas
 	%section=TITLE,		% títulos de seções convertidos em letras maiúsculas
 	%subsection=TITLE,	% títulos de subseções convertidos em letras maiúsculas
 	%subsubsection=TITLE,% títulos de subsubseções convertidos em letras maiúsculas
@@ -50,9 +50,9 @@
 % ---
 % Pacotes básicos 
 % ---
-\usepackage{lmodern}			% Usa a fonte Latin Modern			
-\usepackage[T1]{fontenc}		% Selecao de codigos de fonte.
-\usepackage[utf8]{inputenc}		% Codificacao do documento (conversão automática dos acentos)
+%\usepackage{lmodern}			% Usa a fonte Latin Modern			
+%\usepackage[T1]{fontenc}		% Selecao de codigos de fonte.
+%\usepackage[utf8]{inputenc}	% Codificacao do documento (conversão automática dos acentos)
 \usepackage{lastpage}			% Usado pela Ficha catalográfica
 \usepackage{indentfirst}		% Indenta o primeiro parágrafo de cada seção.
 \usepackage{color}				% Controle das cores
@@ -64,6 +64,10 @@
 % Pacotes adicionais, usados apenas no âmbito do Modelo Canônico do abnteX2
 % ---
 \usepackage{lipsum}				% para geração de dummy text
+\usepackage{hyperref}           % para inserção de hiperlinks
+\usepackage{float}              % para ancoragem das figuras no local exato.
+\usepackage{fontspec}           % para uso de fontes do MS-Windows.
+\usepackage{fancyhdr}
 % ---
 
 % ---
@@ -92,6 +96,19 @@
 		Citado #1 vezes nas páginas #2.%
 	\fi}%
 % ---
+
+\setmainfont{Times New Roman}
+\fontsize{10.5}{10}\selectfont
+
+\setlrmarginsandblock{2.5cm}{1.5cm}{*}
+\setulmarginsandblock{2cm}{1.5cm}{*}
+\checkandfixthelayout
+
+\renewcommand{\ABNTEXchapterfont}{\setmainfont{Times New Roman}\fontseries{b}\selectfont}
+\renewcommand{\ABNTEXchapterfontsize}{\normalsize}
+
+\newfontfamily\quotefont{Times New Roman}
+\AtBeginEnvironment{quote}{\quotefont\small}
 
 % ---
 % Informações de dados para CAPA e FOLHA DE ROSTO
@@ -260,6 +277,10 @@ $endif$}%% fim do preambulo
 % Início do documento
 % ----
 \begin{document}
+
+\citeoption{minhasopcoes}
+
+\SingleSpacing
 
 % Seleciona o idioma do documento (conforme pacotes do babel)
 %\selectlanguage{english}
