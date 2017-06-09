@@ -16,13 +16,11 @@ Já \citeonline[p.~2-3, grifo nosso]{moraes}, em uma definição mais moderna de
 > O Estado, na tradicional obra de Jellinek, necessita de três elementos fundamentais: poder/soberania, população e território. O Estado, portanto,  é a forma histórica de organização jurídica limitado a um determinado território e com população definida e dotado de soberania, que em termos gerais e **no sentido moderno configura-se em um poder supremo no plano interno e num poder independente no plano internacional**.
 
 
-De acordo com o atual Código Civil, o Estado possui personalidade jurídica de direito público, com prerrogativas especiais, para que possa ser atingida a finalidade de interesse público. O fim do Estado é assegurar a vida humana em sociedade.
- O Estado deve garantir a ordem interna, assegurar a soberania na ordem internacional elaborar as regras de conduta e distribuir a justiça. Nesse contexto, insere-se o Direito Administrativo, como ramo autônomo do Direito Público, tendo como finalidade disciplinar as relações entre as diversas pessoas e órgãos do Estado, bem como entre este e os administrados.
+De acordo com o atual Código Civil, o Estado possui personalidade jurídica de direito público, com prerrogativas especiais, para que possa ser atingida a finalidade de interesse público. O fim do Estado é assegurar a vida humana em sociedade. O Estado deve garantir a ordem interna, assegurar a soberania na ordem internacional elaborar as regras de conduta e distribuir a justiça. Nesse contexto, insere-se o Direito Administrativo, como ramo autônomo do Direito Público, tendo como finalidade disciplinar as relações entre as diversas pessoas e órgãos do Estado, bem como entre este e os administrados.
 
 ### Estado de Direito e Estado Democrático de Direito
 
-O conceito de **Estado de Direito** é mais restritivo que o exposto no item anterior.
- Para um Estado ser considerado um Estado de Direito deve apresentar as seguintes premissas \cite[p.~5]{moraes}:
+O conceito de **Estado de Direito** é mais restritivo que o exposto no item anterior. Para um Estado ser considerado um Estado de Direito deve apresentar as seguintes premissas \cite[p.~5]{moraes}:
 
 1. primazia da lei
 2. sistema hierárquico de normas que preserva a segurança jurídica e que se concretiza na diferente natureza das distintas normas e em seu correspondente âmbito de validade;
@@ -478,17 +476,15 @@ O *Federal Open Market Committee* (FOMC), órgão no qual muito provavelmente o 
 
 O *Federal Reserve* controla as três ferramentas da política monetária -- operações de mercado aberto, a taxa de juros básica, e os depósitos compulsórios. Enquanto o *Board of Governors* do *Federal Reserve System* é responsável pela taxa de desconto e depósitos compulsórios, o FOMC é responsável pelas operações de mercado aberto. [^fomc]
 
-[^fomc]: Ver [https://www.federalreserve.gov/monetarypolicy/fomc.htm].
+[^fomc]: Ver [www.federalreserve.gov/monetarypolicy/fomc.htm](https://www.federalreserve.gov/monetarypolicy/fomc.htm).
 
 #### O Federal Reserve Board of Governors
 
-O *Board of Governors* — ou Conselho de "Governantes" do FED --, localizado em Whashington, D.C., é o corpo do *Federal Reserve System*. É dirigido por sete membros, ou "governantes", que são nomeados pelo presidente dos EUA e confirmados pelo Senado americano. O Conselho orienta o funcionamento do *Federal Reserve System* para promover os objetivos e cumprir as 
-responsabilidades atribuídas ao *Federal Reserve* pelo *Federal Reserve Act* \cite{fed2}.
+O *Board of Governors* — ou Conselho de "Governantes" do FED --, localizado em Whashington, D.C., é o corpo do *Federal Reserve System*. É dirigido por sete membros, ou "governantes", que são nomeados pelo presidente dos EUA e confirmados pelo Senado americano. O Conselho orienta o funcionamento do *Federal Reserve System* para promover os objetivos e cumprir as responsabilidades atribuídas ao *Federal Reserve* pelo *Federal Reserve Act* \cite{fed2}.
 
 > The FOMC is charged with overseeing "open market operations", the principal tool by which the Federal Reserve executes U.S. monetary policy. These operations affect the federal funds rate, which in turn influence overall monetary and credit conditions, aggregate demand, and the entire economy. The FOMC also directs operations undertaken by the Federal Reserve in foreign exchange markets and, in recent years, has authorized currency swap programs with foreign central banks.[^fomc2]
 
-[^fomc2]: O FOMC é encarregado de supervisionar as "operações de mercado aberto", o instrumento principal pelo qual o *Federal Reserve* executa a política monetária nos EUA. Estas operações afetam a taxa dos fundos federais, que por sua vez influenciam condições monetárias e de crédito globais, demanda agregada e toda a economia . O FOMC também dirige as operações nos mercados 
-de câmbio e, nos últimos anos, autorizou programas de troca de moeda com bancos centrais estrangeiros.
+[^fomc2]: O FOMC é encarregado de supervisionar as "operações de mercado aberto", o instrumento principal pelo qual o *Federal Reserve* executa a política monetária nos EUA. Estas operações afetam a taxa dos fundos federais, que por sua vez influenciam condições monetárias e de crédito globais, demanda agregada e toda a economia . O FOMC também dirige as operações nos mercados de câmbio e, nos últimos anos, autorizou programas de troca de moeda com bancos centrais estrangeiros.
 
 #### O Federal Reserve Act
 
@@ -496,8 +492,7 @@ A função declarada dos bancos centrais difere de país para país. Nos EUA, a 
 
 > The Board of Governors of the Federal Reserve System and the Federal Open Market Committee shall maintain long run growth of the monetary and credit aggregates commensurate with the economy’s long run potential to increase production, so as to promote effectively the goals of maximum employment, stable prices, and moderate long-term interest rates[^board].
 
-[^board]: O Conselho de Governadores do Sistema do *Federal Reserve* e o *Federal Open Market Committee* manterão o crescimento de longo prazo dos agregados monetários e de crédito compatíveis com o potencial de longo prazo da economia para aumentar a produção, de modo a promover eficazmente os objetivos de emprego máximo, preços estáveis, e taxas de juros de longo 
-prazo moderadas.
+[^board]: O Conselho de Governadores do Sistema do *Federal Reserve* e o *Federal Open Market Committee* manterão o crescimento de longo prazo dos agregados monetários e de crédito compatíveis com o potencial de longo prazo da economia para aumentar a produção, de modo a promover eficazmente os objetivos de emprego máximo, preços estáveis, e taxas de juros de longo prazo moderadas.
 
 #### Metas de Inflação nos EUA {#subsubsec:IT_FED}
 
@@ -814,85 +809,83 @@ Nesta seção pretendemos demonstrar a evolução das principais variáveis macr
 
 A variação do IPCA mensal, desde julho de 1994, pode ser vista na \autoref{IPCA}.
 
-![IPCA desde julho/1994](imagens/IPCA_anual.png){#IPCA largura=65%}
+![IPCA desde julho/1994](imagens/IPCA_anual.png){#IPCA width=65%}
 
-Fonte: \cite{SGS} 
 
 A \autoref{IPCA_anual} mostra os dados do IPCA anualizados, em forma de barras.
 
-![IPCA anual desde 1995](imagens/IPCA_anual.png){#IPCA_anual largura=65%}
+![IPCA anual desde 1995](imagens/IPCA_anual.png){#IPCA_anual width=65%}
 
-Fonte: \cite{SGS} 
 
 A \autoref{cambio_nominal} mostra o gráfico da variação da cotação do dólar em relação ao real, desde julho de 1994. Já a \autoref{cambio_real} mostra a variação da taxa de câmbio real efetiva no mesmo período.
 
-![Taxa de câmbio nominal desde julho/1994](imagens/cambio_nominal.png){#cambio_nominal largura=65%}
+![Taxa de câmbio nominal desde julho/1994](imagens/cambio_nominal.png){#cambio_nominal width=65%}
 
-Fonte: \cite{SGS} 
+ 
 
-![Taxa de câmbio real efetiva desde junho/1994](imagens/cambio_real.png){#cambio_real largura=65%}
+![Taxa de câmbio real efetiva desde junho/1994](imagens/cambio_real.png){#cambio_real width=65%}
 
-Fonte: \cite{SGS} 
+ 
 
 A \autoref{PIB} mostra a evolução do PIB acumulado nos últimos 12 meses, em valores correntes, enquanto a \autoref{PIB_anual} mostra a evolução do PIB anual desde 1995.
 
-![PIB em valores correntes - acumulado dos últimos 12 meses](imagens/PIB.png){#PIB largura=65%}
+![PIB em valores correntes - acumulado dos últimos 12 meses](imagens/PIB.png){#PIB width=65%}
 
-Fonte: \cite{SGS} 
+ 
 
-![PIB anual desde 1995](imagens/PIB_anual.png){#PIB_anual largura=65%}
+![PIB anual desde 1995](imagens/PIB_anual.png){#PIB_anual width=65%}
 
-Fonte: \cite{SGS} 
+ 
 
 A \autoref{selic} mostra a variação da taxa Selic desde julho/1994.
 
-![Taxa básica de juros desde julho/1994](imagens/selic.png){#selic largura=65%}
+![Taxa básica de juros desde julho/1994](imagens/selic.png){#selic width=65%}
 
-Fonte: \cite{SGS} 
+ 
 
 A \autoref{juro_real} mostra a evolução da taxa de juros reais mensal do Brasil, desde julho de 1994.
 
-![Juros reais efetivos no Brasil desde julho/1994 (% ao mês)](imagens/juro_real.png){#juro_real largura=65%}
+![Juros reais efetivos no Brasil desde julho/1994 (% ao mês)](imagens/juro_real.png){#juro_real width=65%}
 
-Fonte: \cite{SGS} 
+ 
 
 A \autoref{juro_real_anual} mostra a evolução da taxa de juros reais anualizada, desde junho de 1995, primeiro período onde o efeito da hiperinflação prevalecente antes do plano real já havia se dissipado.
 
-![Juros reais efetivos no Brasil desde junho/1995 (% ao ano)](imagens/juro_real_anual.png){#juro_real_anual largura=65%}
+![Juros reais efetivos no Brasil desde junho/1995 (% ao ano)](imagens/juro_real_anual.png){#juro_real_anual width=65%}
 
-Fonte: \cite{SGS} 
+ 
 
 A \autoref{divida_liquida} mostra a evolução da dívida líquida do setor público desde a estabilização.
 
-![Dívida líquida do setor público desde julho/1994 (saldos em R$ milhões)](imagens/divida_liquida.png){#divida_liquida largura=65%}
+![Dívida líquida do setor público desde julho/1994 (saldos em R$ milhões)](imagens/divida_liquida.png){#divida_liquida width=65%}
 
-Fonte: \cite{SGS} 
+ 
 
-Nas \autoref{divida_liquida_GF,divida_liquida_BC} podem ser visualizadas a dívida líquida do setor público em separado: a parte referente ao Governo Federal e a parte referente ao BC.
+Nas \Autoref{divida_liquida_GF,divida_liquida_BC} podem ser visualizadas a dívida líquida do setor público em separado: a parte referente ao Governo Federal e a parte referente ao BC.
 
-![Dívida líquida do setor público desde julho/1994 - Gov. Fed. (saldos em R$ milhões)](imagens/divida_liquida_GF.png){#divida_liquida_GF largura=65%}
+![Dívida líquida do setor público desde julho/1994 - Gov. Fed. (saldos em R$ milhões)](imagens/divida_liquida_GF.png){#divida_liquida_GF width=65%}
 
-Fonte: \cite{SGS} 
+ 
 
-![Dívida líquida do setor público desde julho/1994 - BC (saldos em R$ milhões)](imagens/divida_liquida_BC.png){#divida_liquida_BC largura=65%}
+![Dívida líquida do setor público desde julho/1994 - BC (saldos em R$ milhões)](imagens/divida_liquida_BC.png){#divida_liquida_BC width=65%}
 
-Fonte: \cite{SGS} 
+ 
 
 A \autoref{dividapib} mostra a evolução da razão da dívida líquida do setor público (governo federal e banco central) em relação ao PIB.
 
-![Relação Dívida/PIB desde dez/2001](imagens/dividapib.png){#dividapib largura=65%}
+![Relação Dívida/PIB desde dez/2001](imagens/dividapib.png){#dividapib width=65%}
 
-Fonte: \cite{SGS} 
+ 
 
-As \autoref{desemprego1, desemprego2} mostram a evolução da taxa de desemprego nas principais regiões metropolitanas, em duas séries distintas, portanto incomparáveis, nos períodos de julho/1994 a dez/2002 e jan/2003 a fev/2016, respectivamente.
+As \Autoref{desemprego1, desemprego2} mostram a evolução da taxa de desemprego nas principais regiões metropolitanas, em duas séries distintas, portanto incomparáveis, nos períodos de julho/1994 a dez/2002 e jan/2003 a fev/2016, respectivamente.
 
-![Taxa de desemprego de julho/1994 a dez/2002](imagens/desemprego1.png){#desemprego1 largura=65%}
+![Taxa de desemprego de julho/1994 a dez/2002](imagens/desemprego1.png){#desemprego1 width=65%}
 
-Fonte: \cite{SGS} 
+ 
 
-![Taxa de desemprego de jan/2003 a fev/2016](imagens/desemprego2.png){#desemprego2 largura=65%}
+![Taxa de desemprego de jan/2003 a fev/2016](imagens/desemprego2.png){#desemprego2 width=65%}
 
-Fonte: \cite{SGS} 
+ 
 
 # Debate dos Juros no Brasil
 

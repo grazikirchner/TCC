@@ -59,7 +59,7 @@ projeto: false
 apendices: false
 anexos: false
 errata: false
-referencias_sistema: alf, versalete
+referencias_sistema: alf, versalete, abnt-emphasize = bf, abnt-full-initials = yes, abnt-repeated-author-omit = yes
 lista_ilustracoes: false
 lista_tabelas: false
 
